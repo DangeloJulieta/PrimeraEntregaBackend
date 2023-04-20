@@ -1,5 +1,5 @@
 {
-  "name": "PreEntrega_Coder",
+  "name": "Desafío",
   "version": "1.0.0",
   "description": " Backend 51185 ",
   "type": "module",
@@ -8,10 +8,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Juli",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2", 
-    "joi": "^17.9.1"
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "joi": "^17.9.1",
+    "handlebars": "^4.7.7",
+    "socket.io": "^4.6.1"
   }
 }
